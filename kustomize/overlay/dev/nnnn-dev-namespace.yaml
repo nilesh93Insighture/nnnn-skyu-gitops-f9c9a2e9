@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: nnnn-dev
+  labels:
+    environment-id: env_4b33de01-98ff-4fea-a026-939262b887b6
+    project-id: project_1b4f830c-2534-4368-9e90-a86c83e4822d
+    project-name: nnnn
+    environment-name: dev
+    organization-id: org_7a7c68a9-0d1d-4ef5-ad4d-40b555ceddd1
